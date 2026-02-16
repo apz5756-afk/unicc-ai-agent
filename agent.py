@@ -3,7 +3,7 @@ print("🤖 Hi! I’m your AI agent.")
 user = input("Say something to me: ")
 
 if "hello" in user.lower():
-    print("Hi friend! 👋")
+    print("Hi friend! This is AIna Your beautiful AI latino Agent 👋")
 elif "how are you" in user.lower():
     print("I’m doing great! Thanks for asking 😊")
 else:
